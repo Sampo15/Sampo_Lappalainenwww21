@@ -13,12 +13,9 @@ font-size: 16px;
 
 }
 
-links{
-
+links:hover{
+background-color: black;
 color: pink;
 align-self: hover;
 
-}
-a:hover{
-    background-color: black;
 }
