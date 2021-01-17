@@ -14,13 +14,18 @@ font-family: cursive;
 
 li{
 
-color: pink;
-align-self: hover;
-font-family: cursive;
+color:black;
+
+
 
 }
+
+a{
+    color:black;
+    font-family: cursive;
+}
 a:hover{
-    background-color: black;
+    background-color:pink;
 }
 
 figure{
