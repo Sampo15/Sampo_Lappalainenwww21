@@ -1,5 +1,6 @@
 p{
     background-color: pink;
+    width: fit-content;
     font-size: larger;
     font-family: cursive;
 
@@ -9,6 +10,7 @@ h1{
 border-bottom: 5px solid red;
 font-size: 16px;
 font-family: cursive;
+width: fit-content;
 
 }
 
