@@ -46,7 +46,8 @@ background-repeat: no-repeat;
 background-position: center;
 background-size: cover;
 font-family: bathory;
-
+display: flex;
+align-items: stretch;
 font-size: 28px;
 min-height: 500px;
 color: white;
@@ -79,6 +80,7 @@ leftbar h1{
     text-align:inherit;
     font-family: bathory;
     color: white;
+    font-size: 35px;
     
    
     
