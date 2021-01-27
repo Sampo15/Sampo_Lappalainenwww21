@@ -66,8 +66,9 @@ leftbar a:hover{
 color: white;
 }
 
-leftbar h1{
+leftbar p{
     background-color: black;
+    width: fit-content ;
 }
 
 .members footer{
